@@ -1,0 +1,28 @@
+body h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h2 {
+  text-align: center;
+
+  padding: 5px;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-size: 13px;
+  color: white;
+  background-color: rgb(212, 48, 89);
+}
+fieldset {
+  text-align: center;
+}
+main {
+  border: 2px rgb(212, 48, 89) dotted;
+  background-color: lightcyan;
+  margin: 10px;
+}
+div {
+  text-align: center;
+  padding-bottom: 5px;
+}
+fieldset {
+  margin: 10px;
+}

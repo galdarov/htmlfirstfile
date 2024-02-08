@@ -1,0 +1,55 @@
+body {
+  margin: auto;
+  background-color: darkorange;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  border: 8px solid gray;
+}
+header {
+  border: 8px solid gray;
+  background-color: lightgrey;
+  margin: 20px 10px;
+}
+nav {
+  border: 8px solid gray;
+  background-color: lightgrey;
+  margin: 10px;
+}
+main {
+  border: 8px solid gray;
+  background-color: lightgrey;
+  margin: 20px 10px;
+}
+
+article {
+  border: 8px solid gray;
+  background-color: lightgrey;
+  margin: 10px;
+  width: 45%;
+}
+section {
+  border: 5px solid gray;
+  background-color: lightgrey;
+  margin: 10px;
+}
+
+aside {
+  border: 8px solid gray;
+  background-color: lightgrey;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+article,
+aside {
+  width: 500px;
+  height: 400px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+footer {
+  border: 8px solid gray;
+  background-color: lightgrey;
+  margin: 20px 10px;
+}

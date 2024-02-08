@@ -1,0 +1,78 @@
+body {
+  background-color: lightblue;
+  padding: 0px;
+  margin: 0px;
+}
+header {
+  background-color: darkorange;
+  padding: 20px;
+  color: white;
+}
+img {
+  border: 3px solid white;
+  width: 150px;
+  border-radius: 20px;
+}
+.one:hover {
+  background-color: darkcyan;
+  transition: 0.5s;
+}
+.lists {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.one {
+  font-size: 20px;
+  color: white;
+  background-color: darkorange;
+  border-radius: 10px;
+  width: 200px;
+  padding: 5px;
+  padding-left: 20px;
+  margin: 0px;
+  margin-bottom: 10px;
+}
+hr {
+  border-top: 1px solid red;
+}
+ol {
+  font-size: large;
+  background-color: lightslategrey;
+  margin: 20px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+table,
+th,
+td {
+  border: 2px solid lightblue;
+  border-collapse: collapse;
+  font-size: 20px;
+  padding: 20px;
+  margin: 20px;
+}
+#links tr:first-child {
+  background-color: darkcyan;
+  color: white;
+}
+
+#links tr:nth-child(even) {
+  background-color: lightgrey;
+}
+
+a {
+  color: darkorange;
+  background-color: darkolivegreen;
+  text-decoration: none;
+  padding: 5px;
+}
+
+footer {
+  color: white;
+  background-color: darkcyan;
+  border: 10px solid darkorange;
+  padding: 20px;
+  margin: 10px 0px 20px 10px;
+}

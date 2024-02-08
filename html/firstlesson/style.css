@@ -1,0 +1,40 @@
+ul li {
+  border: 2px black solid;
+  width: 200px;
+  background-color: darkorange;
+}
+body {
+  background-color: lightblue;
+}
+img {
+  border: 5px white solid;
+  border-radius: 25px;
+}
+h2 {
+  color: darkorange;
+  font-weight: bold;
+}
+.learnings {
+  background-color: darkorange;
+  font-size: 25px;
+  font-weight: bold;
+  color: lightgreen;
+}
+.text1 {
+  background-color: darkorange;
+  font-size: 25px;
+  font-weight: bold;
+  color: lightgreen;
+}
+ol {
+  background-color: lightslategrey;
+}
+#lasttext {
+  color: white;
+  background-color: darkcyan;
+  border: 10px lightcoral solid;
+}
+img:hover {
+  transform: scale(1.1);
+  transition: 1s;
+}
